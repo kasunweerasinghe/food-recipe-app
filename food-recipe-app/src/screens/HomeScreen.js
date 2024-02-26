@@ -85,7 +85,7 @@ export default function HomeScreen() {
             style={{ fontSize: hp(3.8) }}
             className="font-semibold text-neutral-600"
           >
-            stay at <Text className="text-amber-400">home</Text>
+            stay at <Text className="text-emerald-700">home</Text>
           </Text>
         </View>
 
